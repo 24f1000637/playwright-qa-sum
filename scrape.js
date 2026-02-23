@@ -42,5 +42,6 @@ function extractNumbers(text) {
   }
 
   console.log(`TOTAL_SUM=${grandTotal}`);
+  console.log(`Sum=${grandTotal}`);
   await browser.close();
 })();
