@@ -1,0 +1,12 @@
+{
+  "name": "playwright-qa-sum",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Scrape JS tables and sum all numbers",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "dependencies": {
+    "playwright": "^1.46.0"
+  }
+}
